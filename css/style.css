@@ -22,3 +22,6 @@ px
     flex-direction: column;
     justify-content: flex-end;
 }
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: coral !important;}
